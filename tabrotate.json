@@ -34,6 +34,16 @@
             "url": "https://app.powerbi.com/groups/da412b61-287c-48b2-932e-6bde3b66e75f/reports/a7f61017-1b8f-471b-8679-3b52e8431a95/ReportSection04a17d19e22fb81e2cec?experience=power-bi",
             "duration": 66,
             "tabReloadIntervalSeconds": 666
+        },
+        {
+            "url": "https://app.powerbi.com/groups/da412b61-287c-48b2-932e-6bde3b66e75f/reports/9c3ddfa4-0026-4bf6-b94f-b0386dbc8ca8/ReportSection245a13f5f9ee38dc5689?experience=power-bi",
+            "duration": 66,
+            "tabReloadIntervalSeconds": 666
+        },
+                {
+            "url": "https://app.powerbi.com/groups/da412b61-287c-48b2-932e-6bde3b66e75f/reports/9c3ddfa4-0026-4bf6-b94f-b0386dbc8ca8/ReportSection1d79ab133b0ba21d2b34?experience=power-bi",
+            "duration": 66,
+            "tabReloadIntervalSeconds": 666
         }
     ]
 }
