@@ -6,11 +6,6 @@
     "closeExistingTabs": false,
     "websites": [
         {
-            "url": "https://app.powerbi.com/groups/fd6be91f-335e-4dce-a4ef-f1d76435398c/reports/1d396553-f720-40dd-b149-27602f55dd79/ReportSectioncb1c561fea61d1893ed6?experience=power-bi",
-            "duration": 66,
-            "tabReloadIntervalSeconds": 666
-        },
-        {
             "url": "https://app.powerbi.com/groups/da412b61-287c-48b2-932e-6bde3b66e75f/reports/a7f61017-1b8f-471b-8679-3b52e8431a95/ReportSection76698dd370ef1bcefebb?experience=power-bi",
             "duration": 66,
             "tabReloadIntervalSeconds": 666
